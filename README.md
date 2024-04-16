@@ -1,2 +1,3 @@
 # mnist_fashion_generation
-training a GAN to generate fashion images
+
+this is an expremintal project for training a generative network on fashion mnist dataset.
